@@ -1,16 +1,8 @@
-# CGame
-Colaboradores: Diego Riquelme y Bastián Escribano.
-
-Edit 1: Commit usando Linux+zsh+nvim, por Bastián.
-
-Edit 2: 
-
 ### **Algoritmo**
   Sabemos que tenemos n **filas** para e cantidad de edificio 
   También es posible conocer **e** cantidad de **edificios**  
   
-  **Hipótesis de Algoritmo
-**
+  **Hipótesis de Algoritmo**
 
 *   Las posiciones deberán auto-designarse de forma aleatoria mientras se cumpla
       que la cantidad de columnas, menos la cantidad total de edificios, menos
@@ -29,7 +21,7 @@ Edit 2:
 **Ejemplo en pseudo-código**
  
 		  Intentar {
-  		  limpiarColumnaEscrita(); // Sabemos que estamos utilizando recursión, por lo tanto al 		momento de intentar de todas formas estaremos llamando a la función escribirEnMatriz(); y al momento de que nuestro caso base no se cumpla (cuando aₙ logra llamar a la función rellenarAₙ();)
+  		  limpiarColumnaEscrita(); // Sabemos que estamos utilizando recursión, por lo tanto al momento de intentar de todas formas estaremos llamando a la función escribirEnMatriz(); y al momento de que nuestro caso base no se cumpla (cuando aₙ logra llamar a la función rellenarAₙ();)
  		
  		   Para a₁{
     		   posInicial = random(){
