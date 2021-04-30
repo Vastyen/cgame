@@ -10,12 +10,14 @@
        Entiendo que an generará una función deberá ser utilizado posteriormente
        para quitar espacios al algoritmo y que pueda randomizar correctamente.
 
-  a₁, a₂, a₃... aₙ += e Cantidad de edificios (a,b, c son la consecutividad y e la suma total).
-  k = Cantidad de espacios ya usados. (Rellenar() **-=**).
-  n = Cantidad de filas ingresadas.
+**  a₁, a₂, a₃... aₙ += e Cantidad de edificios (a,b, c son la consecutividad y e la suma total). **
+
+** k = Cantidad de espacios ya usados. (Rellenar() - - ) **
+
+** n = Cantidad de filas ingresadas. **
  
   Para aₙ
-    Se podría implementar *recursión*.
+    Se podría implementar **recursión**.
 	
 	
 **Ejemplo en pseudo-código**
