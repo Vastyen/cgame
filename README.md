@@ -20,8 +20,11 @@
 	
 **Ejemplo en pseudo-código**
  
-		  Intentar {
-  		  limpiarColumnaEscrita(); // Sabemos que estamos utilizando recursión, por lo tanto al momento de intentar de todas formas estaremos llamando a la función escribirEnMatriz(); y al momento de que nuestro caso base no se cumpla (cuando aₙ logra llamar a la función rellenarAₙ();)
+	Intentar {
+	limpiarColumnaEscrita(); // Sabemos que estamos utilizando recursión, por lo tanto 
+	al momento de intentar de todas formas estaremos llamando
+	a la función escribirEnMatriz(); y al momento de que nuestro caso
+	base no se cumpla (cuando aₙ logra llamar a la función rellenarAₙ();)
  		
  		   Para a₁{
     		   posInicial = random(){
