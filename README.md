@@ -11,7 +11,7 @@
        para quitar espacios al algoritmo y que pueda randomizar correctamente.
 
   a₁, a₂, a₃... aₙ += e Cantidad de edificios (a,b, c son la consecutividad y e la suma total).
-  k = Cantidad de espacios ya usados. (Rellenar() **-=**)
+  k = Cantidad de espacios ya usados. (Rellenar() **-=**).
   n = Cantidad de filas ingresadas.
  
   Para aₙ
