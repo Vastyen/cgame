@@ -1,9 +1,6 @@
-### **Algoritmo**
+### **Algorithm**
   
 
+First part:
 
-Autor(es): 
-
-Bastián Escribano
-
-Diego Riquelme
+State space search
