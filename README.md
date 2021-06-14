@@ -1,7 +1,23 @@
 ### **Algorithm**
   
-Contributors: Diego Riquelme + Bastián Escribano.
+# SSS: State Space Search
 
-First part:
 
-State space search
+
+
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Developers
+
+* Diego Riquelme
+* Bastián Escribano
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
