@@ -1,0 +1,15 @@
+Transiciones: 
+
+Se definen las siguientes transiciones en su orden de prioridad, respectivamente:
+
+- Norte
+- Este
+- Sur 
+- Oeste
+
+Estados:
+
+Estado Inicial: Posición (0, 0)
+Estado Final: Posición (x, n)
+Donde n es el temaño nxn de la matriz.
+
