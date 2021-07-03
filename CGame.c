@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include <time.h>
+#include<time.h>
 #include<string.h>
 #include"title.h"
 #include"scrClean.h"
+
 //funcion que nos entrega el tamanio de la matriz, retorna el tamanio.
 int matrixSize(){
 	FILE *dataFile;

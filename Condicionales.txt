@@ -1,0 +1,17 @@
+Forma Manual:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forma Automática con el Algoritmo de Búsqueda de Espacio de Estados:

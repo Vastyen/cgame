@@ -1,0 +1,6 @@
+Se definen las siguientes transiciones en su orden de prioridad, respectivamente:
+
+- Norte
+- Este
+- Sur 
+- Oeste
