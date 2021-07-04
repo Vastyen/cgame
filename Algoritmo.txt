@@ -13,3 +13,4 @@ Estado Inicial: Posición (0, 0)
 Estado Final: Posición (x, n)
 Donde n es el temaño nxn de la matriz.
 
+No existirá un camino o salida para matrices con última posición de edificio < n (Para manual y automático)
