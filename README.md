@@ -15,12 +15,14 @@ Se desarrolló el marco teórico del problema, se analizaron los puntos y se est
 ### Monday Jun 7th, 2021
 
 
-Los desarrolladores se presentan así mismo y al avance general del proyecto, el objtivo fue abarcar todos los problemas en base de un algoritmo fue el principal objetivo, se dividió el problema en más subproblemas y se inició la investigación de método de búsqueda de espacios de estados para la resolución del problema.
+Los desarrolladores se presentan así mismo y al avance general del proyecto, el objetivo fue abarcar todos los problemas en base de un algoritmo fue el principal objetivo, se dividió el problema en más subproblemas.
+
+Se da inicio a la investigación de método de búsqueda de espacios de estados para la resolución del problema.
            
        
 ### Monday Jul 5th, 2021
 
-El método de programación postulado para la creación de la matriz, se refuta y queda eliminado del proyecto, se procede a la investigación y estudio del método búsqueda en espacio de soluciones.
+Se implementa búsqueda en espacios de estado para la creación de la matriz y queda descartado del proyecto, se procede a la investigación y estudio del método búsqueda en espacio de soluciones para el desarollo del algoritmo y de la solución.
 
 Se desarrolló un algoritmo que soluciona una pequeña parte del problema en el lenguaje de programación Python.
 
