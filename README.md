@@ -9,7 +9,7 @@ Repository for the semester project of the programming methods lab, it consists 
 
 ### Friday May 7th, 2021
 
-The theoretical framework of the problem is developed, the points are analyzed and the possible solution to the problem is established, some diagrams are included and also some programming methods are postulated to solve the problem based on an algorithm.
+* The theoretical framework of the problem is developed, the points are analyzed and the possible solution to the problem is established, some diagrams are included and also some programming methods are postulated to solve the problem based on an algorithm.
 
 
 ### Monday Jun 7th, 2021
