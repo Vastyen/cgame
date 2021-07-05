@@ -8,7 +8,7 @@ Repository for the semester project of the programming methods lab, it consists 
 
 
 ### First View
-           Pensar Algoritmo
+           Se desarrolló el marco teórico del problema, se analizaron los puntos y se estableció la posible solución al problema, se incluyeron algunos diagramas y además se postularon algunos métodos de programación para resolver el problema en base a un algoritmo.
            
 
 ### Second View 
