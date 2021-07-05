@@ -9,24 +9,25 @@ Repository for the semester project of the programming methods lab, it consists 
 
 ### Friday May 7th, 2021
 
-Se desarrolló el marco teórico del problema, se analizaron los puntos y se estableció la posible solución al problema, se incluyeron algunos diagramas y además se postularon algunos métodos de programación para resolver el problema en base a un algoritmo.
+The theoretical framework of the problem is developed, the points are analyzed and the possible solution to the problem is established, some diagrams are included and also some programming methods are postulated to solve the problem based on an algorithm.
 
 
 ### Monday Jun 7th, 2021
 
 
-Los desarrolladores se presentan así mismo y al avance general del proyecto, el objetivo fue abarcar todos los problemas en base de un algoritmo fue el principal objetivo, se dividió el problema en más subproblemas.
+The developers introduce themselves and the general progress of the project, the objective is to cover all the problems based on an algorithm was the main objective, the problem is divided into more subproblems.
 
-Se da inicio a la investigación de método de búsqueda de espacios de estados para la resolución del problema.
+The investigation of the search method for state spaces to solve the problem begins.
+
            
        
 ### Monday Jul 5th, 2021
 
-Se implementa búsqueda en espacios de estado para la creación de la matriz y queda descartado del proyecto, se procede a la investigación y estudio del método búsqueda en espacio de soluciones para el desarollo del algoritmo y de la solución.
+Search in state spaces is implemented for the creation of the matrix and is discarded of the project, we proceed to the investigation and study of the search method in solution space for the development of the algorithm and the solution.
 
-Se desarrolló un algoritmo que soluciona una pequeña parte del problema en el lenguaje de programación Python.
+An algorithm is developed that solves a part of the problem in the Python programming language.
 
-Se documentó el avance general del proyecto.
+The overall progress of the project was documented.
 
 
 ## Contributing
