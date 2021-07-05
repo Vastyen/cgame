@@ -4,6 +4,12 @@
 Repository for the semester project of the programming methods lab, it consists in helping spiderman to solve a puzzle in the city by implementing several techniques seen during the lecture, such as state space search, problem subdivision, etc.
 
 
+## Changelog
+
+
+# 1
+# 2 
+# 3
 
 
 
