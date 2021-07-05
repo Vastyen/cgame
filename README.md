@@ -10,7 +10,7 @@ Repository for the semester project of the programming methods lab, it consists 
 ### Friday May 7th, 2021
 
 Se desarrolló el marco teórico del problema, se analizaron los puntos y se estableció la posible solución al problema, se incluyeron algunos diagramas y además se postularon algunos métodos de programación para resolver el problema en base a un algoritmo.
-           
+
 
 ### Monday Jun 7th, 2021
 
@@ -20,6 +20,10 @@ Abarcar todos los problemas en base de un algoritmo fue el principal objetivo, s
 ### Monday Jul 5th, 2021
 
 El método de programación postulado para la creación de la matriz, se refuta y queda eliminado del proyecto, se procede a la investigación y estudio del método búsqueda en espacio de soluciones.
+
+Se desarrolló un algoritmo que soluciona una pequeña parte del problema en el lenguaje de programación Python.
+
+Se documentó el avance general del proyecto.
 
 
 ## Contributing
