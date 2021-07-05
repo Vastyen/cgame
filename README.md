@@ -21,7 +21,7 @@ Repository for the semester project of the programming methods lab, it consists 
            
 ### Monday Jul 5th, 2021
 
-* An algorithm is developed that solves a part of the problem in the Python programming language. In addition, a prototype of the algorithm is made in Excel
+* An algorithm is developed that solves a part of the problem in the Python programming language. In addition, a prototype of the algorithm is made in Excel.
 
 * Search in state spaces is implemented for the creation of the matrix and is discarded of the project, we proceed to the investigation and study of the search method in solution space for the development of the algorithm and the solution.
 
