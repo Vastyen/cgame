@@ -13,7 +13,8 @@ Se desarrolló el marco teórico del problema, se analizaron los puntos y se est
            
 
 ### Second View 
-           Presentación
+
+Abarcar todos los problemas en base de un algoritmo fue el principal objetivo, se dividió el problema en más subproblemas y se inició la investigación de método de búsqueda de espacios de estados para la resolución del problema.
            
         
 ### Third View
