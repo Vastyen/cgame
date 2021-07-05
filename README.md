@@ -7,9 +7,9 @@ Repository for the semester project of the programming methods lab, it consists 
 ## Changelog
 
 
-# 1
-# 2 
-# 3
+### 1
+### 2 
+### 3
 
 
 
