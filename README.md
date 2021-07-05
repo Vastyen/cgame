@@ -14,18 +14,16 @@ Repository for the semester project of the programming methods lab, it consists 
 
 ### Monday Jun 7th, 2021
 
-
 * The developers introduce themselves and the general progress of the project, the objective is to cover all the problems based on an algorithm was the main objective, the problem is divided into more subproblems.
 
 * The investigation of the search method for state spaces to solve the problem begins.
 
            
-       
 ### Monday Jul 5th, 2021
 
-* Search in state spaces is implemented for the creation of the matrix and is discarded of the project, we proceed to the investigation and study of the search method in solution space for the development of the algorithm and the solution.
+* An algorithm is developed that solves a part of the problem in the Python programming language. In addition, a prototype of the algorithm is made in Excel
 
-* An algorithm is developed that solves a part of the problem in the Python programming language.
+* Search in state spaces is implemented for the creation of the matrix and is discarded of the project, we proceed to the investigation and study of the search method in solution space for the development of the algorithm and the solution.
 
 * The overall progress of the project was documented.
 
