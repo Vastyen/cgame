@@ -7,20 +7,19 @@ Repository for the semester project of the programming methods lab, it consists 
 ## Changelog
 
 
-### First View
+### Friday May 7th, 2021
 
 Se desarrolló el marco teórico del problema, se analizaron los puntos y se estableció la posible solución al problema, se incluyeron algunos diagramas y además se postularon algunos métodos de programación para resolver el problema en base a un algoritmo.
            
 
-### Second View 
+### Monday Jun 7th, 2021
 
 Abarcar todos los problemas en base de un algoritmo fue el principal objetivo, se dividió el problema en más subproblemas y se inició la investigación de método de búsqueda de espacios de estados para la resolución del problema.
            
         
-### Third View
-            Desarrollo
+### Monday Jul 5th, 2021
 
-
+El método de programación postulado para la creación de la matriz, se refuta y queda eliminado del proyecto, se procede a la investigación y estudio del método búsqueda en espacio de soluciones.
 
 
 ## Contributing
